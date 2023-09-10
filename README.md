@@ -1,2 +1,2 @@
 # MWST
-Implementation of MWST from CLRS
+Implementation of Textbook example of a Minimum Weight Spanning Tree from CLRS
